@@ -1,6 +1,6 @@
 # BEZRODNAIA ALEKSANDRA
 
-![Photo][https://cloud.mail.ru/public/9thb/fydgugzs8]
+![Photo](https://cloud.mail.ru/public/9THb/fYDgugzS8/ "Photo")
 
 ## **_CONTACTS_**
 
@@ -33,6 +33,8 @@ function check(str, bracketsConfig) {
 ```
 
 ## **_EXPERIENCE_**
+
+[Momentum](https://aleksaroad.github.io/momentum/ "Momentum")
 
 ## **_REFERENCES_**
 
