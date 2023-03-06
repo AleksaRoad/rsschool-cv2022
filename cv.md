@@ -34,9 +34,9 @@ function check(str, bracketsConfig) {
 
 ## **_EXPERIENCE_**
 
-[Momentum](https://aleksaroad.github.io/momentum/ "Momentum")
-
 ## **_REFERENCES_**
+
+[Momentum](https://aleksaroad.github.io/momentum/ "Momentum")
 
 ## **_LANGUAGES_**
 
