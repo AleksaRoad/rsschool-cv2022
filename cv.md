@@ -1,6 +1,6 @@
 # BEZRODNAIA ALEKSANDRA
 
-![Photo](https://cloud.mail.ru/public/9THb/fYDgugzS8)
+![Photo][https://cloud.mail.ru/public/9thb/fydgugzs8]
 
 ## **_CONTACTS_**
 
