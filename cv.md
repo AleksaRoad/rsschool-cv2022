@@ -10,6 +10,10 @@
 
 ## **_EDUCATION_**
 
+- 1
+- 2
+- 3
+
 HTML, CSS, SCSS, Webpack, <span style="color:yellow">JS</span>, React, Git, BEM-methodology, ESLint, Prettier
 
 ## **_SAMPLE CODE_**
